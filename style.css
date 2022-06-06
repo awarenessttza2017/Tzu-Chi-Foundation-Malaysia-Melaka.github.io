@@ -1,6 +1,13 @@
-@media screen and (max-width: 600px) {
-  img {
-    width: 100%;
+*{
+  margin: 0;
+}
+
+@media (max-width: 480px) {
+
+  img{
+    max-width: 50%;
+    height: auto;
+    border-radius: 8px;
   }
 }
 
