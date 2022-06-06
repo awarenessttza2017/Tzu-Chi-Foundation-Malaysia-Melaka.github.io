@@ -30,6 +30,15 @@
   img{
     width: 100%;
   }
+
+  a:hover{
+    color: red;
+    text-decoration:underline;
+  }
+
+  a{
+    text-decoration: none;
+  }
   
   #nav {
       height: 100px;
